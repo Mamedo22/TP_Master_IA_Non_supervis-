@@ -1,6 +1,6 @@
 # Étude Comparative des Algorithmes d’Apprentissage Non Supervisé
 
-Pla comparaison de plusieurs méthodes d’apprentissage non supervisé appliquées au dataset Wine.
+la comparaison de plusieurs méthodes d’apprentissage non supervisé appliquées au dataset Wine.
 
 ## Algorithmes
 - K-Means
